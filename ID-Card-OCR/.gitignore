@@ -1,0 +1,21 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+
+# Secrets and local settings
+.env
+
+# Runtime data - preserve only the placeholder files
+uploads/*
+!uploads/.gitkeep
+sample_outputs/*
+!sample_outputs/.gitkeep
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
