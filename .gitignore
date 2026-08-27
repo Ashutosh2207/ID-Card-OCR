@@ -3,3 +3,7 @@ __pycache__/
 *.pyc
 .env
 
+
+ID-Card-OCR.zip
+*.zip
+
