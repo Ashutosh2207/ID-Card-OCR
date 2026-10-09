@@ -270,16 +270,6 @@ Explain practical use cases such as:
 
 Make it clear that this project is a prototype/technical project unless the provided code indicates otherwise.
 
-# 19. Screenshots
-
-Create a section with placeholders:
-
-```text
-[Add Application Screenshot Here]
-[Add OCR Result Screenshot Here]
-[Add JSON Output Screenshot Here]
-```
-
 # 20. Contributing
 
 Add a simple contribution guide.
